@@ -1,0 +1,3 @@
+empname mahesh
+empsal 1000
+empid 13162
